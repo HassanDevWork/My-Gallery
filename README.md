@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://pensive-kepler-b23b8c.netlify.app">
       Demo
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 ![screenshot](https://images2.imgbox.com/c3/ec/EdpEAwCm_o.png)
 
-You can See this demo using this Link: LINK.
+You can See this demo using this Link: https://pensive-kepler-b23b8c.netlify.app.
 In this project there is a lots of cool things, for Example: lazyLoading, swipeGallery, ...etc, in this project I got lots of experiences in JS, And using libraries, I learned how to make LazyLoading using pure JS using IntersectionObserver API, and I got batter under standing of promises in JS, And Fetch API in JS.
 
 ### Built With
